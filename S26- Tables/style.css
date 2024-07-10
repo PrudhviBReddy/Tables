@@ -1,0 +1,421 @@
+ h1{
+    text-align: center;
+    color: black;
+ }
+ h2{
+    text-align: center;
+ }
+ 
+ .table1{
+    border: 2px solid black;
+    margin: 10px;
+    width: 50%;
+}
+.td1, .h1{
+    border: 2px solid black;
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center;
+}
+.thead1{
+    background-color: aqua;
+}
+.tbody1{
+    background-color: greenyellow;
+    color: red;
+}
+
+.table2{
+    border: 2px solid black;
+    margin: 10px;
+    width: 50%;
+}
+.td2, .th2{
+    border: 2px solid black;
+    padding: 10px;
+    border-radius: 10px;
+}
+.thead2{
+    background-color: aqua;
+}
+.tbody2{
+    background-color: greenyellow;
+    color: red;
+    text-align: center;
+}
+
+.table3{
+    border: 2px solid black;
+    margin: 10px;
+    width: 80%;
+    text-align: center;
+}
+.td3, .th3{
+    border: 2px solid black;
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 2rem;
+}
+.thead3{
+    background-color: aqua;
+}
+.tbody3{
+    background-color: greenyellow;
+    color: red;
+}
+.tfoot3{
+    background-color: brown;
+    color: white;
+}
+.caption3{
+    background-color: tomato;
+    color: black;
+    font-size: 2rem;
+}
+mark{
+    background-color: red;
+}
+
+.table4{
+    border: 2px solid black;
+    margin: 10px;
+    width: 80%;
+    text-align: center;
+    border-collapse: collapse;
+}
+.td4, .th4{
+    border: 2px solid black;
+    padding: 10px;
+    /* border-radius: 10px; */
+    font-size: 2rem;
+}
+.thead4{
+    background-color: aqua;
+}
+.tbody4{
+    background-color: greenyellow;
+    color: red;
+}
+.tfoot4{
+    background-color: brown;
+    color: white;
+}
+.caption4{
+    background-color: tomato;
+    color: black;
+    font-size: 2rem;
+}
+
+
+.table5{
+    /* border: 2px solid black; */
+    margin: 10px;
+    width: 80%;
+    text-align: center;
+    border-collapse: collapse;
+}
+.td5, .th5{
+    /* border: 2px solid black; */
+    padding: 10px;
+    /* border-radius: 10px; */
+    font-size: 2rem;
+}
+.thead5{
+    background-color: aqua;
+}
+.tbody5{
+    background-color: greenyellow;
+    color: red;
+}
+.tfoot5{
+    background-color: brown;
+    color: white;
+}
+.caption5{
+    background-color: tomato;
+    color: black;
+    font-size: 2rem;
+}
+
+
+.table6{
+    border: 2px solid black;
+    margin: 10px;
+    width: 80%;
+    text-align: center;
+   
+}
+.td6, .th6{
+    border: 2px solid black;
+    padding: 10px;
+    border-radius: 20px;
+    font-size: 2rem;
+}
+.thead6{
+    background-color: aqua;
+}
+.tbody6{
+    background-color: greenyellow;
+    color: red;
+}
+.tfoot6{
+    background-color: brown;
+    color: white;
+}
+.caption6{
+    background-color: tomato;
+    color: black;
+    font-size: 2rem;
+    border-radius: 20px;
+}
+
+
+.table7{
+    border: 2px solid black;
+    margin: 10px;
+    width: 100%;
+    text-align: center;
+    border-collapse: collapse;
+}
+.td7, .th7{
+    border: 2px solid black;
+    padding: 10px;
+    font-size: 2rem;
+}
+.thead7{
+    background-color: aqua;
+}
+.tbody7{
+    background-color: greenyellow;
+    color: red;
+}
+.tfoot7{
+    background-color: brown;
+    color: white;
+}
+.caption7{
+    background-color: tomato;
+    color: black;
+    font-size: 2rem;
+}
+
+.table8{
+    border: 2px solid black;
+    margin: 10px;
+    width: 100%;
+    text-align: center;
+    border-collapse: collapse;
+}
+.td8, .th8{
+    border: 2px solid black;
+    padding: 10px;
+    font-size: 2rem;
+}
+.thead8{
+    background-color: aqua;
+}
+.tbody8{
+    background-color: greenyellow;
+    color: red;
+}
+.tfoot8{
+    background-color: brown;
+    color: white;
+}
+.caption8{
+    background-color: tomato;
+    color: black;
+    font-size: 2rem;
+}
+
+.table9{
+    border: 2px solid black;
+    margin: 20px;
+    width: 100%;
+    text-align: center;
+    border-spacing: 30px;
+    /* border-collapse: collapse; */
+}
+.td9, .th9{
+    border: 2px solid black;
+    padding: 20px;
+    font-size: 2rem;
+}
+.thead9{
+    background-color: aqua;
+}
+.tbody9{
+    background-color: greenyellow;
+    color: red;
+}
+.tfoot9{
+    background-color: brown;
+    color: white;
+}
+.caption9{
+    background-color: tomato;
+    color: black;
+    font-size: 2rem;
+    padding: 10px;
+}
+
+.table10{
+    border: 2px solid black;
+    margin: 10px;
+    width: 100%;
+    text-align: center;
+    border-collapse: collapse;
+}
+.td10, .th10{
+    border: 2px solid black;
+    padding: 10px;
+    font-size: 2rem;
+}
+/* .thead10{
+    background-color: aqua;
+} */
+/* .tbody10{
+    background-color: greenyellow;
+    color: red;
+} */
+.tfoot10{
+    /* background-color: brown; */
+    color: black;
+}
+.caption10{
+    background-color: tomato;
+    color: black;
+    font-size: 2rem;
+}
+.tr10:nth-child(even){
+    background-color: red;
+    color: yellow;
+}
+.tr10:nth-child(odd){
+    background-color: yellow;
+}
+
+.table11{
+    border: 2px solid black;
+    margin: 10px;
+    width: 100%;
+    text-align: center;
+    border-collapse: collapse;
+}
+.td11, .th11{
+    border: 2px solid black;
+    padding: 10px;
+    font-size: 2rem;
+}
+/* .thead11{
+    background-color: aqua;
+} */
+/* .tbody11{
+    background-color: greenyellow;
+    color: red;
+} */
+.tfoot11{
+    /* background-color: brown; */
+    color: black;
+}
+.caption11{
+    background-color: tomato;
+    color: black;
+    font-size: 2rem;
+}
+.th11:nth-child(even){
+    background-color: yellow;
+    color: red;
+}
+.th11:nth-child(odd){
+    background-color: red;
+    color: yellow;
+}
+
+.table12{
+    border: 2px solid black;
+    margin: 10px;
+    width: 100%;
+    text-align: center;
+    border-collapse: collapse;
+}
+.td12, .thead12, .th12{
+    border: 2px solid black;
+    padding: 10px;
+    font-size: 2rem;
+}
+.thead12{
+    background-color: aqua;
+}
+.tbody12{
+    background-color: greenyellow;
+    color: red;
+}
+.tfoot12{
+    background-color: brown;
+    color: black;
+}
+.caption12{
+    background-color: tomato;
+    color: black;
+    font-size: 2rem;
+}
+
+
+.table13{
+    border: 2px solid black;
+    margin: 10px;
+    width: 100%;
+    text-align: center;
+    border-collapse: collapse;
+}
+.td13, .th13{
+    border: 2px solid black;
+    padding: 10px;
+    font-size: 2rem;
+}
+/* .thead13{
+    background-color: aqua;
+} */
+/* .tbody13{
+    background-color: greenyellow;
+    color: red;
+} */
+.tfoot13{
+    /* background-color: brown; */
+    color: black;
+}
+.caption13{
+    background-color: tomato;
+    color: black;
+    font-size: 2rem;
+}
+
+.table14{
+    border: 2px solid black;
+    margin: 10px;
+    width: 100%;
+    text-align: center;
+    border-collapse: collapse;
+}
+.td14, .th14{
+    border: 2px solid black;
+    padding: 10px;
+    font-size: 2rem;
+}
+/* .thead14{
+    background-color: aqua;
+} */
+/* .tbody14{
+    background-color: greenyellow;
+    color: red;
+} */
+.tfoot14{
+    /* background-color: brown; */
+    color: black;
+}
+.caption14{
+    background-color: tomato;
+    color: black;
+    font-size: 2rem;
+}
